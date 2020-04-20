@@ -10,11 +10,11 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2bca5ec802e40d3f4b60343e346cedde",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "2aa350bd2aeab88b601a593f793734c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-192.png": "8dd4b48570b04cca29abedba6d5cdf1b",
+"icons/Icon-512.png": "8dd4b48570b04cca29abedba6d5cdf1b",
 "index.html": "3a7d8249feb10b93c2e3ca6e4945a39d",
 "/": "3a7d8249feb10b93c2e3ca6e4945a39d",
-"main.dart.js": "66e97d8f6e412cc80b663105a0f51716",
+"main.dart.js": "dc21a692017d1215a5f49d33bfa4bd12",
 "manifest.json": "d7efcb825f78e7aeac4a9c96b5479595"
 };
 
