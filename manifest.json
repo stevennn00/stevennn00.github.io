@@ -1,6 +1,6 @@
 {
-    "name": "chat_website",
-    "short_name": "chat_website",
+    "name": "website_base",
+    "short_name": "website_base",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
